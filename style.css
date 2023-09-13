@@ -1,8 +1,47 @@
-body
+body{
 
-h1 {
+    background-color: rgba(245, 160, 48, 0.432);
+    color: rgba(173, 98, 0, 0.849);
+    padding: 20px;
 
-    color: rgb(0, 0, 0);
+}
+
+p{
+
+    line-height: 1.10;
+    text-align: justify;
+    margin-bottom: 20px;
+
+}
+
+.links {
+
+    color: rgb(36, 89, 168);
     line-height: 2.1;
     font-weight: bold;
+}
+
+.titulo-de-pagina{
+
+    color: #213363;
+    line-height:2.1;
+    font-weight: bold;
+    font-size: 24pt;
+}
+
+.titulo-de-artigo {
+
+    color: #17594A;
+    line-height: 2.1;
+    font-weight: bold;
+    font-size: 24pt;
+}
+
+.titulo-de-seçao {
+
+    color:#D3D04F;
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 20pt;
+    
 }
