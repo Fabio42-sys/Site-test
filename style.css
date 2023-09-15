@@ -45,3 +45,11 @@ p{
     font-size: 20pt;
     
 }
+
+.titulo-de-paragrafo {
+
+    color:rgba(0, 0, 0, 0);
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 24px;
+}
