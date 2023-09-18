@@ -19,6 +19,7 @@ p{
     color: rgb(36, 89, 168);
     line-height: 2.1;
     font-weight: bold;
+    font-size: 15px;
 }
 
 .titulo-de-pagina{
@@ -26,7 +27,7 @@ p{
     color: #213363;
     line-height:2.1;
     font-weight: bold;
-    font-size: 24pt;
+    font-size: 24px;
 }
 
 .titulo-de-artigo {
@@ -34,7 +35,7 @@ p{
     color: #17594A;
     line-height: 2.1;
     font-weight: bold;
-    font-size: 24pt;
+    font-size: 24px;
 }
 
 .titulo-de-seçao {
@@ -42,7 +43,7 @@ p{
     color:#D3D04F;
     line-height: 1.5;
     font-weight: bold;
-    font-size: 20pt;
+    font-size: 20px;
     
 }
 
@@ -52,4 +53,12 @@ p{
     line-height: 1.5;
     font-weight: bold;
     font-size: 24px;
+}
+
+.redirecionamento {
+
+color: black;
+line-height: 1.5;
+font-weight: bold;
+font-size: 24px;
 }
