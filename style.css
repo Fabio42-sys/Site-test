@@ -14,12 +14,17 @@ p{
 
 }
 
-.links {
+/* link visitado */
+a:link {
 
     color: rgb(36, 89, 168);
-    line-height: 2.1;
-    font-weight: bold;
-    font-size: 15px;
+    
+}
+
+a:link{
+
+    color:rgb(88, 0, 88)
+
 }
 
 .titulo-de-pagina{
